@@ -1,0 +1,5 @@
+[project]
+name = "Dial Creator"
+
+[tool.pyside6-project]
+files = ["main.py", "main.ui", "resources.qrc"]
